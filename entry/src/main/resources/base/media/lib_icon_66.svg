@@ -1,0 +1,6 @@
+<svg height="96" version="1.1" viewbox="0 0 96 96" width="96" xmlns="http://www.w3.org/2000/svg">
+<g fill="#000" fill-rule="evenodd" stroke="none" stroke-width="1" transform="translate(4 12)">
+<path d="M30,72 C26.6912086,72 23.5530235,71.2695477 20.7379034,69.9611017 C8.62122773,65.4054068 0,53.7095012 0,40 C0,22.326888 14.326888,8 32,8 C45.4296483,8 56.9270692,16.2728488 61.6740782,28.0003617 L66,28 C78.1502645,28 88,37.8497355 88,50 C88,62.1502645 78.1502645,72 66,72 L30,72 Z" style="mix-blend-mode:multiply"></path>
+<circle cx="66" cy="22" fill-opacity=".6" r="22" style="mix-blend-mode:multiply"></circle>
+</g>
+</svg>
